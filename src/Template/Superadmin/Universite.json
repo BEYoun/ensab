@@ -1,0 +1,1132 @@
+[
+    {
+      "nameUV": "Université Ibn Zohr",
+      "ville": "Agadir",
+      "etablissements": [
+        {
+          "nameET": "École nationale de commerce et de gestion - Agadir",
+          "departement": [
+            {
+              "nom": "Commerce",
+              "chef": "Mme SOUAF MALIKA"
+            },
+            {
+              "nom": "Gestion",
+              "chef": "AIT BIHI ABDELHAMID"
+            },
+            {
+              "nom": "Informatique et Techniques Quantitatives appliquées à la Gestion",
+              "chef": "HOUSSAS M'BARK"
+            },
+            {
+              "nom": "Langues et Communication",
+              "chef": "M. HASSAN SKOURI"
+            }
+          ]
+        },
+        {
+          "nameET": "École nationale de commerce et de gestion - Dakhla",
+          "departement": [
+            {
+              "nom": "Commerce",
+              "chef": "Mme SOUAF MALIKA",
+              "filiere": [
+                {
+                  "nom": "Marketing et Action Commerciale",
+				  "chef": "inconnue"
+                },
+                {
+                  "nom": "Publicité et Communication",
+				  "chef": "inconnue"
+                },
+                {
+                  "nom": "Commerce International",
+				  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Gestion",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Marketing et Action Commerciale",
+				  "chef": "inconnue"
+                },
+                {
+                  "nom": "Management des Ressources Humaines",
+				  "chef": "inconnue"
+                },
+                {
+                  "nom": "Gestion Financière et Comptable",
+				  "chef": "inconnue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nameET": "École nationale des sciences appliquées - Agadir",
+          "departement": [
+            {
+              "nom": "Ingénierie Informatique",
+              "chef": "Mme SOUAF MALIKA",
+              "filiere": [
+                {
+                  "nom": "Génie Informatique",
+				  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Ingénierie Électrique, et Électronique",
+              "chef": "AIT BIHI ABDELHAMID",
+              "filiere": [
+                {
+                  "nom": "Génie Electrique",
+				  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Ingénierie Industriel",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Génie Industriel",
+				  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Ingénierie des procédés et énergie et environnement",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Génie des Procédés de l'Energie et de l'Environnement",
+				  "chef": "inconnue"
+                },
+                {
+                  "nom": "MASTER INGÉNIERIE DES PROCÉDÉS ET DE L'ENERGIE",
+				  "chef": "inconnue"
+                },
+                {
+                  "nom": "MASTER EFFICACITÉ ÉNERGÉTIQUE ET CONTRÔLE DES BÂTIMENTS",
+				  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Ingénierie Civile",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "GÉNIE CIVIL",
+				  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Ingénierie Mécanique",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Génie Mécanique",
+				  "chef": "inconnue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nameET": "École supérieure de technologie - Agadir",
+          "departement": [
+            {
+              "nom": "Génie Informatique",
+              "chef": "Mr Sabour",
+              "filiere": [
+                {
+                  "nom": "Génie Informatique",
+                  "chef": "Mustapha AMROUCH"
+                },
+                {
+                  "nom": "LP-Développement et Ingénierie des Applications Informatiques DIAI",
+                  "chef": "Ali EL MEZOUARY"
+                }
+              ]
+            },
+            {
+              "nom": "Génie Électrique",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Génie Electrique",
+                  "chef": "Mustapha KOURCHI"
+                },
+                {
+                  "nom": "LP-Automatisme et Gestion Technique des Bâtiments AGTB",
+                  "chef": "Hossine EL IHSSINI"
+                },
+                {
+                  "nom": "LP-Maintenance et Exploitation des Installations Industrielles MEII",
+                  "chef": "Mohamed MEDIOUNI"
+                },
+                {
+                  "nom": "LP-Efficacité Energétique et Energies Renouvelables EEER",
+                  "chef": "Hassan MOHSSINE"
+                }
+              ]
+            },
+            {
+              "nom": "Techniques de management",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Techniques de management",
+                  "chef": "Said OUAHBI"
+                }
+              ]
+            },
+            {
+              "nom": "Techniques de communication et de commercialisation",
+              "chef": "AIT BIHI ABDELHAMID",
+              "filiere": [
+                {
+                  "nom": "Techniques de communication et de commercialisation",
+                  "chef": "Ali BOUZIT"
+                },
+                {
+                  "nom": "LP-Gestion Commerciale GC",
+                  "chef": "Lahcen ELMESKINE"
+                },
+                {
+                  "nom": "LP-Commerce International CI",
+                  "chef": "Khalid BOURMA"
+                }
+              ]
+            },
+            {
+              "nom": "Génie Bio-Industriel",
+              "chef": "AIT BIHI ABDELHAMID",
+              "filiere": [
+                {
+                  "nom": "Génie Bio-Industriel",
+                  "chef": "Fouad ACHEMCHEM"
+                },
+                {
+                  "nom": "LP-Génie Alimentaire et Protection de l’Environnement GAPE",
+                  "chef": "Elhabib AIT ADDI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nameET": "École Supérieure de Technologie - Guelmim",
+          "departement": [
+            {
+              "nom": "Génie Electrique et Electronique",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "ENERGIES RENOUVELABLES ET EFICACITE ENERGITIQUE",
+                  "chef": "MARKAZI RACHID"
+                },
+                {
+                  "nom": "LP-Instrumentation et Systèmes",
+                  "chef": "Demami Fouad"
+                },
+                {
+                  "nom": "LP-Energies Renouvelables et Procédés (ERP)",
+                  "chef": "EL FANAOUI ABDESLAM"
+                }
+              ]
+            },
+            {
+              "nom": "Génie Informatique",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Informatique",
+                  "chef": "SEDKI AKRAM"
+                },
+                {
+                  "nom": "LP-Informatique décisionnelle et statistiques",
+                  "chef": "IDARROU ALI"
+                }
+              ]
+            },
+            {
+              "nom": "Finance",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "MANAGEMENT DES ENTREPRISES",
+                  "chef": "KHALID FARID"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nameET": "École Supérieure de Technologie - Laâyoune",
+          "departement": [
+            {
+              "nom": "Gestion des ressources humaines",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "LP-Gestion des ressources humaines",
+                  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Techniques juridiques et financières",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "LP-Techniques juridiques et financières",
+                  "chef": "inconnue"
+                }
+              ]
+            },
+            {
+              "nom": "Techniques de management",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Techniques de management",
+                  "chef": "Said OUAHBI"
+                }
+              ]
+            },
+            {
+              "nom": "Techniques de communication et de commercialisation",
+              "chef": "AIT BIHI ABDELHAMID",
+              "filiere": [
+                {
+                  "nom": "Techniques de communication et de commercialisation",
+                  "chef": "Ali BOUZIT"
+                }
+              ]
+            },
+            {
+              "nom": "Génie Informatique",
+              "chef": "inconnue",
+              "filiere": [
+                {
+                  "nom": "Génie Informatique",
+                  "chef": "SEDKI AKRAM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Cadi Ayyad",
+      "ville": "Marrakech",
+      "etablissements": [
+        {
+          "nameET": "École nationale des sciences appliquées de Safi"
+        },
+        {
+          "nameET": "École nationale des sciences appliquées de Marrakech"
+        },
+        {
+          "nameET": "École nationale de commerce et de gestion de Marrakech"
+        },
+        {
+          "nameET": "École normale supérieure"
+        },
+        {
+          "nameET": "École supérieure de technologie d'Essaouira"
+        },
+        {
+          "nameET": "École nationale d'architecture(ENA)"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Sultan Moulay Slimane",
+      "ville": "Béni Mellal",
+      "etablissements": [
+        {
+          "nameET": "École nationale de commerce et de gestion"
+        },
+        {
+          "nameET": "École supérieure de technologie"
+        },
+        {
+          "nameET": "École nationale des sciences appliquées de Khouribga",
+		  "departement": [
+            {
+              "nom": "MATHS & INFORMATIQUE",
+              "chef": "METRANE Abdelmoutalib",
+              "filiere": [
+                {
+                  "nom": "Génie Informatique",
+				  "chef": "inconnue",
+				  "niveaux":[
+					{
+						"libelle":"API1",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Analyse 2"
+							},
+							{
+								"libelle":"Algèbre 2"
+							},
+							{
+								"libelle":"Outils info"
+							},
+							{
+								"libelle":"Chimie"
+							},
+							{
+								"libelle":"Physique 2"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Francais"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"API2",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Analyse 4"
+							},
+							{
+								"libelle":"Electronique 2"
+							},
+							{
+								"libelle":"Maths Appliquées"
+							},
+							{
+								"libelle":"Initiation à l'entreprise"
+							},
+							{
+								"libelle":"Physique 3"
+							},
+							{
+								"libelle":"Physique 4"
+							},
+							{
+								"libelle":"Anglais"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"TC",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Res Protocoles"
+							},
+							{
+								"libelle":"ACD"
+							},
+							{
+								"libelle":"Traitement de signal / Modulation"
+							},
+							{
+								"libelle":"Elec Puiss / Elec Analogique"
+							},
+							{
+								"libelle":"Francais"
+							},
+							{
+								"libelle":"UNIX Prog Shell"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Calc Sci"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"CI2",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Calcul de Complexite et algo appr"
+							},
+							{
+								"libelle":"Gestion de production industrielle"
+							},
+							{
+								"libelle":"Programmation Java"
+							},
+							{
+								"libelle":"Francais"
+							},
+							{
+								"libelle":"Prog Systèmes et Réseaux"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Base de données Oracle"
+							},
+							{
+								"libelle":"Environnement Developpement Mobile"
+							}
+							]
+						}
+						]
+					}
+
+				  ]
+                },
+				{
+                  "nom": "Big Data et aide à la décision",
+				  "chef": "inconnue",
+				  "niveaux":[
+					{
+						"libelle":"Master1",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Traitement Image"
+							},
+							{
+								"libelle":"Méthodologie de recherche"
+							},
+							{
+								"libelle":"Data Mining"
+							},
+							{
+								"libelle":"TEC"
+							},
+							{
+								"libelle":"Math Big Data"
+							},
+							{
+								"libelle":"Syst. aide à la décision"
+							},
+							{
+								"libelle":"Francais"
+							}
+							]
+						}
+						]
+					}
+				]
+            }
+        },
+		{
+              "nom": "RÉSEAUX & TÉLÉCOMS",
+              "chef": "MOUGHIT Mohamed",
+              "filiere": [
+                {
+                  "nom": "Génie Réseaux et Télécommunications",
+				  "chef": "inconnue",
+				  "niveaux":[
+					{
+						"libelle":"API1",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Analyse 2"
+							},
+							{
+								"libelle":"Algèbre 2"
+							},
+							{
+								"libelle":"Outils info"
+							},
+							{
+								"libelle":"Chimie"
+							},
+							{
+								"libelle":"Physique 2"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Francais"
+							}
+							]
+						},
+						]
+					},
+					{
+						"libelle":"API2",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Analyse 4"
+							},
+							{
+								"libelle":"Electronique 2"
+							},
+							{
+								"libelle":"Maths Appliquées"
+							},
+							{
+								"libelle":"Initiation à l'entreprise"
+							},
+							{
+								"libelle":"Physique 3"
+							},
+							{
+								"libelle":"Physique 4"
+							},
+							{
+								"libelle":"Anglais"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"TC",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Res Protocoles"
+							},
+							{
+								"libelle":"ACD"
+							},
+							{
+								"libelle":"Traitement de signal / Modulation"
+							},
+							{
+								"libelle":"Elec Puiss / Elec Analogique"
+							},
+							{
+								"libelle":"Francais"
+							},
+							{
+								"libelle":"UNIX Prog Shell"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Calc Sci"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"CI2",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Sys Communication Transmission"
+							},
+							{
+								"libelle":"Hyperfrequences"
+							},
+							{
+								"libelle":"Syst radiocommunication"
+							},
+							{
+								"libelle":"Francais"
+							},
+							{
+								"libelle":"Intro Sys Emb Mater"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Antennes et Propagations"
+							},
+							{
+								"libelle":"Java"
+							},
+							{
+								"libelle":"Gestion de Production Industrielle"
+							}
+							]
+						}
+						]
+					}
+                }
+              ]
+            },
+			{
+              "nom": "GÉNIE DES PROCÉDÉS",
+              "chef": "SAADOUNI Khalid",
+              "filiere": [
+                {
+                  "nom": "Génie des Procédés de l’Energie et de l’Environnement",
+				  "chef": "inconnue",
+				  "niveaux":[
+					{
+						"libelle":"API1",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Analyse 2"
+							},
+							{
+								"libelle":"Algèbre 2"
+							},
+							{
+								"libelle":"Outils info"
+							},
+							{
+								"libelle":"Chimie"
+							},
+							{
+								"libelle":"Physique 2"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Francais"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"API2",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Analyse 4"
+							},
+							{
+								"libelle":"Electronique 2"
+							},
+							{
+								"libelle":"Maths Appliquées"
+							},
+							{
+								"libelle":"Initiation à l'entreprise"
+							},
+							{
+								"libelle":"Physique 3"
+							},
+							{
+								"libelle":"Physique 4"
+							},
+							{
+								"libelle":"Anglais"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"TC",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Statistiques et Analyse fonctionnelle"
+							},
+							{
+								"libelle":"RDM et Construction mécanique"
+							},
+							{
+								"libelle":"Eco et Communication 2"
+							},
+							{
+								"libelle":"Info Appliquée"
+							},
+							{
+								"libelle":"Chimie des eaux et cinétique"
+							},
+							{
+								"libelle":"Biologie et microbiologie"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"CI2",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Combustion industrielle"
+							},
+							{
+								"libelle":"Mesures et Instrumentation"
+							},
+							{
+								"libelle":"Machines fluidiques"
+							},
+							{
+								"libelle":"Energies renouvelables"
+							},
+							{
+								"libelle":"Logiciels de simulation"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Réacteurs et Ingénierie des Procédés"
+							},
+							{
+								"libelle":"Cristallisation industrielle"
+							},
+							{
+								"libelle":"Echangeur, air humide et Climatisation"
+							},
+							{
+								"libelle":"Techniques de séparation solide-fluide"
+							}
+							]
+						}
+						]
+					}
+                }
+              ]
+            },
+            {
+              "nom": "GÉNIE ELECTRIQUE",
+              "chef": "	BENCHAGRA  Mohamed",
+              "filiere": [
+                {
+                  "nom": "Génie Électrique",
+				  "chef": "inconnue",
+				  "niveaux":[
+					{
+						"libelle":"API1",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+								{
+									"libelle":"Analyse 2"
+								},
+								{
+									"libelle":"Algèbre 2"
+								},
+								{
+									"libelle":"Outils info"
+								},
+								{
+									"libelle":"Chimie"
+								},
+								{
+									"libelle":"Physique 2"
+								},
+								{
+									"libelle":"Anglais"
+								},
+								{
+									"libelle":"Francais"
+								}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"API2",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Analyse 4"
+							},
+							{
+								"libelle":"Electronique 2"
+							},
+							{
+								"libelle":"Maths Appliquées"
+							},
+							{
+								"libelle":"Initiation à l'entreprise"
+							},
+							{
+								"libelle":"Physique 3"
+							},
+							{
+								"libelle":"Physique 4"
+							},
+							{
+								"libelle":"Anglais"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"TC",
+						"Semestre":[
+						{
+							"libelle":"S2",
+							"module":[
+							{
+								"libelle":"Res Protocoles"
+							},
+							{
+								"libelle":"ACD"
+							},
+							{
+								"libelle":"Traitement de signal / Modulation"
+							},
+							{
+								"libelle":"Elec Puiss / Elec Analogique"
+							},
+							{
+								"libelle":"Francais"
+							},
+							{
+								"libelle":"UNIX Prog Shell"
+							},
+							{
+								"libelle":"Anglais"
+							},
+							{
+								"libelle":"Calc Sci"
+							}
+							]
+						}
+						]
+					},
+					{
+						"libelle":"CI2",
+						"Semestre":[
+							{
+								"libelle":"S2",
+								"module":[
+									{
+										"libelle":"Réseaux Electrique"
+									},
+									{
+										"libelle":"Intro Sys Emb Mater"
+									},
+									{
+										"libelle":"Gestion de production Industrielle"
+									},
+									{
+										"libelle":"Antennes et Hyperfrequences"
+									},
+									{
+										"libelle":"Francais"
+									},
+									{
+										"libelle":"Bureau d'études Automatique"
+									},
+									{
+										"libelle":"Syst Prog sur Puce"
+									},
+									{
+										"libelle":"DSP Architecture et prog"
+									},
+									{
+										"libelle":"Traitement de la parole"
+									},
+									{
+										"libelle":"Anglais"
+									}
+								]
+							}
+						]
+					}
+                ]
+              }
+            ]
+		}
+      ]
+    },
+    {
+      "nameUV": "Université Hassan II",
+      "ville": "Casablanca",
+      "etablissements": [
+        {
+          "nameET": "École supérieure de technologie de Casablanca"
+        },
+        {
+          "nameET": "École nationale supérieure d'électricité et de mécanique de Casablanca"
+        },
+        {
+          "nameET": "École normale supérieure"
+        },
+        {
+          "nameET": "École nationale supérieure d’arts et métiers de Casablanca"
+        },
+        {
+          "nameET": "École supérieure des arts appliqués"
+        },
+        {
+          "nameET": "École nationale de commerce et de gestion de Casablanca"
+        },
+        {
+          "nameET": "École nationale supérieure de l’enseignement technique de Mohammedia"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Mohammed V",
+      "ville": "Rabat",
+      "etablissements": [
+        {
+          "nameET": "École Mohammadia d'Ingénieurs"
+        },
+        {
+          "nameET": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes"
+        },
+        {
+          "nameET": "École Normale Supérieure de l'Enseignement Technique - Rabat"
+        },
+        {
+          "nameET": "École Normale Supérieure"
+        },
+        {
+          "nameET": "École Supérieure de Technologie - Salé"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Chouaib Doukkali",
+      "ville": "El Jadida",
+      "etablissements": [
+        {
+          "nameET": "École Nationale de Commerce et de Gestion"
+        },
+        {
+          "nameET": "École Nationale des Sciences Appliquées"
+        },
+        {
+          "nameET": "École Supérieure de Technologie de Sidi Bennour"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Moulay-Ismaïl",
+      "ville": "Meknès",
+      "etablissements": [
+        {
+          "nameET": "École Nationale Supérieure des Arts et Métiers"
+        },
+        {
+          "nameET": "École Supérieure de Technologie"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Sidi Mohamed Ben Abdellah",
+      "ville": "Fès",
+      "etablissements": [
+        {
+          "nameET": "École Nationale de Commerce et de Gestion"
+        },
+        {
+          "nameET": "École Nationale des Sciences Appliquées"
+        },
+        {
+          "nameET": "École Supérieure de Technologie"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Hassan I",
+      "ville": "Settat",
+      "etablissements": [
+        {
+          "nameET": "École nationale de commerce et de gestion"
+        },
+        {
+          "nameET": "École supérieure de technologie de Berrechid"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Ibn Tofaïl",
+      "ville": "Kénitra",
+      "etablissements": [
+        {
+          "nameET": "École nationale de commerce et de gestion"
+        },
+        {
+          "nameET": "École nationale des sciences appliquées"
+        },
+        {
+          "nameET": "École supérieure de technologie"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Mohammed I",
+      "ville": "Oujda",
+      "etablissements": [
+        {
+          "nameET": "École nationale de commerce et de gestion"
+        },
+        {
+          "nameET": "École nationale des sciences appliquées de Oujda"
+        },
+        {
+          "nameET": "École supérieure de technologie"
+        },
+        {
+          "nameET": "École nationale des sciences appliquées d'Al Hoceima"
+        }
+      ]
+    },
+    {
+      "nameUV": "Université Abdelmalek Essaâdi",
+      "ville": "Tétouan",
+      "etablissements": [
+        {
+          "nameET": "École supérieure Roi Fahd de traduction de Tanger"
+        },
+        {
+          "nameET": "École normale supérieure de Martil"
+        },
+        {
+          "nameET": "École nationale des sciences appliquées de Tanger"
+        },
+        {
+          "nameET": "École nationale des sciences appliquées de Tétouan"
+        }
+      ]
+    }
+]

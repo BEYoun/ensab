@@ -1,0 +1,12 @@
+[
+    {
+        "bibliotheque": "on",
+        "bureau": "on",
+        "finance": "on",
+        "personnel": "on",
+        "scolarite": "on",
+        "stock": "on",
+        "stage": "on",
+        "ingenieur": "on"
+    }
+]
